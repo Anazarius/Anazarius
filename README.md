@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timofey Kaplenkov</h1>
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&duration=6500&pause=700&color=062246&center=true&multiline=true&random=false&width=435&lines=%D0%A1%2FC%2B%2B+DEVELOPER;CHECK+MY+BIO" alt="Typing SVG" /></a>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&duration=4000&pause=200&color=062246&multiline=true&random=false&width=435&lines=%D0%A1%2FC%2B%2B+DEVELOPER;CHECK+MY+BIO" alt="Typing SVG" /></a>
 <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anazarius&label=Profile%20views&color=0e75b6&style=flat" alt="anazarius" /> </p>
