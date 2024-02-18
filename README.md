@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anazarius&show_icons=true&locale=en" alt="anazarius" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anazarius&" alt="anazarius" /></p>
+![GitHub Snake animation](./dist/github-snake.svg)
+![Dark GitHub Snake animation](./dist/github-snake-dark.svg?palette=github-dark)
+![Ocean Animation](./dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
