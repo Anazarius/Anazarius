@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timofey Kaplenkov</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=38&duration=4000&pause=200&color=062246&center=true&multiline=true&random=false&width=435&lines=%D0%A1%2FC%2B%2B+DEVELOPER" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=38&duration=4000&pause=200&color=DA2F1E&center=true&multiline=true&random=false&width=435&lines=%D0%A1%2FC%2B%2B+DEVELOPER" alt="Typing SVG"/>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anazarius" alt="anazarius" /></a> </p>
