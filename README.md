@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=38&duration=4000&pause=200&color=DA2F1E&center=true&multiline=true&random=false&width=435&lines=%D0%A1%2FC%2B%2B+DEVELOPER" alt="Typing SVG"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anazarius&theme=onedark" alt="anazarius" /></a> </p>
-
 - 🌱 I’m currently learning **Qt, Dlib**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anazarius?tab=repositories](https://github.com/Anazarius?tab=repositories)
