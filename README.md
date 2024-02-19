@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anazarius&show_icons=true&locale=en&layout=compact&theme=transparent" alt="anazarius" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anazarius&show_icons=true&locale=en&theme=transparent" alt="anazarius" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anazarius&theme=transparent" alt="anazarius" /></p>
