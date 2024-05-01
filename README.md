@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anazarius?tab=repositories](https://github.com/Anazarius?tab=repositories)
 
-- 💬 Ask me about **Python, C, C++, PHP, JS**
+- 💬 Ask me about **C/C++, Golang, Python, JS, PHP**
 
 - 📫 How to reach me **anazarius.work@gmail.com**
 
